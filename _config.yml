@@ -11,34 +11,34 @@ parallax_image_two: assets/images/startup3.jpg
 
 project_one: OnePage
 project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one_url: https://github.com/iljun/OnePageServer
 project_one_icon: photo_camera
 
 project_two: SHKU_Assosiation
 project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two_url: https://github.com/iljun/SKHU_Association
 project_two_icon: photo_camera
 
 
 project_three: Naver winter Hack Day ShortingUrl
 project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_three_url: 
 project_three_icon: hotel
 
 project_four: Naver winter Intern
 project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four_url: 
 project_four_icon: restaurant
 
 project_four: Simple Blog
 project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four_url: https://github.com/iljun/simple-blog
 project_four_icon: restaurant
 
-# project_four: Fourth Project
-# project_four_description: Describe your project!
-# project_four_url: https://github.com/jameshamann/jekyll-material-theme
-# project_four_icon: restaurant
+project_four: Algorithm study
+project_four_description: Alogrithm
+project_four_url: https://github.com/iljun/Algorithm
+project_four_icon: restaurant
 
 portfolio_heading: Portfolio
 portfolio_type: cards
