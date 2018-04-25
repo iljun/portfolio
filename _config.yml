@@ -10,33 +10,33 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: OnePage
-project_one_description: Describe your project!
+project_one_description: 위치 기반 익명 SNS <br/> Spring Boot, JPA, mySql
 project_one_url: https://github.com/iljun/OnePageServer
 project_one_icon: photo_camera
 
 project_two: SHKU_Assosiation
-project_two_description: Describe your project!
+project_two_description: 교내 동문회 관리 시스템 <br/> Spring Boot, JPA, mySql, QueryDSL
 project_two_url: https://github.com/iljun/SKHU_Association
 project_two_icon: photo_camera
 
 
 project_three: Naver winter Hack Day ShortingUrl
-project_three_description: Describe your project!
+project_three_description: 단축 URL <br/> Spring Boot, JPA, mySql, Apache, EhCache
 project_three_url: 
 project_three_icon: hotel
 
 project_four: Naver winter Intern
-project_four_description: Describe your project!
+project_four_description: Admin refactoring <br/> Angular4, Spring Boot, myBatis, mySql, localStorage, JavaScript 
 project_four_url: 
 project_four_icon: restaurant
 
 project_four: Simple Blog
-project_four_description: Describe your project!
+project_four_description: Simple Blog <br/> Angular4, Spring Boot, JPA, mySql, JWT
 project_four_url: https://github.com/iljun/simple-blog
 project_four_icon: restaurant
 
 project_four: Algorithm study
-project_four_description: Alogrithm
+project_four_description: Alogrithm <br/> Java
 project_four_url: https://github.com/iljun/Algorithm
 project_four_icon: restaurant
 
