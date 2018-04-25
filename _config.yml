@@ -6,36 +6,36 @@ description: Java Back-end Developer
 baseurl: "/blog"
 url: ""
 
-parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/startup3.jpg
+parallax_image_one: assets/images/IMG1.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/IMG1.jpg
 
 project_one: OnePage
-project_one_description: 위치 기반 익명 SNS <br/> Back-end -> Spring Boot, JPA<br/> DB -> mySql
+project_one_description: 위치 기반 익명 SNS <br/><br/> Back-end -> Spring Boot, JPA<br/> DB -> mySql
 project_one_url: https://github.com/iljun/OnePageServer
 project_one_icon: photo_camera
 
 project_two: SHKU_Assosiation
-project_two_description: 교내 동문회 관리 시스템 <br/> Front-end -> Html5, CSS3, JavaScript, Bootstrap3 <br/> Back-end -> Spring Boot, JPA, QueryDSL <br/>DB -> mySql
+project_two_description: 교내 동문회 관리 시스템 <br/><br/> Front-end -> Html5, CSS3, JavaScript, Bootstrap3 <br/> Back-end -> Spring Boot, JPA, QueryDSL <br/>DB -> mySql
 project_two_url: https://github.com/iljun/SKHU_Association
 project_two_icon: photo_camera
 
 project_three: Naver winter Hack Day ShortingUrl
-project_three_description: 단축 URL <br/> Front-end -> JSP <br/> Beack-end -> Spring Boot, JPA, Apache, EhCache <br/> DB -> mySql
+project_three_description: 단축 URL <br/><br/> Front-end -> JSP, JSTL <br/> Beack-end -> Spring Boot, JPA, Apache, EhCache <br/> DB -> mySql
 project_three_url: 
 project_three_icon: hotel
 
 project_four: Naver winter Intern
-project_four_description: Admin refactoring <br/> Front-end -> Angular4, Html5, CSS3, Bootstrap4, , localStorage, JavaScript <br/> Back-end -> Spring Boot, myBatis, mySql <br/> DB -> mySql 
+project_four_description: Admin refactoring <br/><br/> Front-end -> Angular4, Html5, CSS3, Bootstrap4, , localStorage, JavaScript <br/> Back-end -> Spring Boot, myBatis, mySql <br/> DB -> mySql 
 project_four_url: 
 project_four_icon: restaurant
 
 project_five: Simple Blog
-project_five_description: Simple Blog <br/> Front-end -> Angular4 <br/> Back-end -> Spring Boot, JPA, OAuth2.0, JWT <br/> DB -> mySql
+project_five_description: Simple Blog <br/><br/> Front-end -> Angular4 <br/> Back-end -> Spring Boot, JPA, OAuth2.0, JWT <br/> DB -> mySql
 project_five_url: https://github.com/iljun/simple-blog
 project_five_icon: restaurant
 
 project_six: Algorithm study
-project_six_description: Alogrithm <br/> Language -> Java
+project_six_description: Alogrithm <br/><br/> Language -> Java
 project_six_url: https://github.com/iljun/Algorithm
 project_six_icon: restaurant
 
@@ -156,7 +156,7 @@ github: https://github.com/iljun
 medium: https://medium.com
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
-url: http://localhost:4000/ #the url of your site
+url: https://iljun.github.io/protfolio/ #the url of your site
 
 # Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
 tag_manager_id: # This looks something like GTM-XXXXXXX
