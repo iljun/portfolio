@@ -25,11 +25,20 @@ project_three_description: Describe your project!
 project_three_url: https://github.com/jameshamann/jekyll-material-theme
 project_three_icon: hotel
 
-
-project_four: Fourth Project
+project_four: Naver winter Intern
 project_four_description: Describe your project!
 project_four_url: https://github.com/jameshamann/jekyll-material-theme
 project_four_icon: restaurant
+
+project_four: Simple Blog
+project_four_description: Describe your project!
+project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four_icon: restaurant
+
+# project_four: Fourth Project
+# project_four_description: Describe your project!
+# project_four_url: https://github.com/jameshamann/jekyll-material-theme
+# project_four_icon: restaurant
 
 portfolio_heading: Portfolio
 portfolio_type: cards
