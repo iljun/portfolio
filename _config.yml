@@ -156,7 +156,7 @@ github: https://github.com/iljun
 medium: https://medium.com
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
-url: https://iljun.github.io/protfolio/ #the url of your site
+url: https://github.com/iljun/protfolio/ #the url of your site
 
 # Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
 tag_manager_id: # This looks something like GTM-XXXXXXX
