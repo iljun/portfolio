@@ -55,13 +55,13 @@ project_eight: DevNote
 project_eight_description: DevNote <br/>
 project_eight_url: https://github.com/iljun/DevNote
 project_eight_icon: photo_camera
-Project_eight_description_url: https://iljun.gitbooks.io/devnote/content/
+project_eight_description_url: https://iljun.gitbooks.io/devnote/content/
 
 project_nine: Algorithm study
 project_nine_description: Alogrithm <br/><br/> Language -> Java
 project_nine_url: https://github.com/iljun/Algorithm
 project_nine_icon: location_on
-Project_nine_description_url:
+project_nine_description_url:
   
 portfolio_heading: Portfolio
 portfolio_type: cards
