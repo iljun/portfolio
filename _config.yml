@@ -27,23 +27,41 @@ project_three_url:
 project_three_icon: hotel
 project_three_description_url: https://iljun.gitbooks.io/iljun-portfolio/content/hackathon/naverWinter/
 
-project_four: Naver winter Intern
+project_four: Naver winter Intern - Admin
 project_four_description: Admin refactoring <br/><br/> Front-end -> Angular4, Html5, CSS3, Bootstrap4, , localStorage, JavaScript <br/> Back-end -> Spring Boot, myBatis, mySql <br/> DB -> mySql 
 project_four_url: 
 project_four_icon: restaurant
 project_four_description_url: https://iljun.gitbooks.io/iljun-portfolio/content/naver/admin/
 
-project_five: Simple Blog
-project_five_description: Simple Blog <br/><br/> Front-end -> Angular4 <br/> Back-end -> Spring Boot, JPA, OAuth2.0, JWT <br/> DB -> mySql <br/> 아직 개발중입니다...
-project_five_url: https://github.com/iljun/simple-blog
+project_five: Naver winter Intern - demoSite V1
+project_five_description: Embeded Editor DemoSite V1 <br/><br/> Front-end -> Html5, CSS3, Bootstrap4, localStorage, JavaScript 
+project_five_url: 
 project_five_icon: restaurant
-project_five_description_url:
+project_five_description_url: https://iljun.gitbooks.io/iljun-portfolio/content/naver/demoSite-v1/
 
-project_six: Algorithm study
-project_six_description: Alogrithm <br/><br/> Language -> Java
-project_six_url: https://github.com/iljun/Algorithm
+project_six: Naver winter Intern - demoSite V2
+project_six_description: Embeded Editor DemoSite V2 <br/><br/> Front-end -> Html5, CSS3, Bootstrap4, sessionStorage, JavaScript <br/> Back-end -> Spring Boot, myBatis, mySql <br/> DB -> mySql 
+project_six_url: 
 project_six_icon: restaurant
-Project_six_description_url:
+project_six_description_url: https://iljun.gitbooks.io/iljun-portfolio/content/naver/demoSite-v2/
+
+project_seven: Simple Blog
+project_seven_description: Simple Blog <br/><br/> Front-end -> Angular4 <br/> Back-end -> Spring Boot, JPA, OAuth2.0, JWT <br/> DB -> mySql <br/> 아직 개발중입니다...
+project_seven_url: https://github.com/iljun/simple-blog
+project_seven_icon: restaurant
+project_seven_description_url:
+
+project_eight: DevNote
+project_eight_description: DevNote <br/>
+project_eight_url: https://github.com/iljun/DevNote
+project_eight_icon: photo_camera
+Project_eight_description_url: https://iljun.gitbooks.io/devnote/content/
+
+project_nine: Algorithm study
+project_nine_description: Alogrithm <br/><br/> Language -> Java
+project_nine_url: https://github.com/iljun/Algorithm
+project_nine_icon: location_on
+Project_nine_description_url:
   
 portfolio_heading: Portfolio
 portfolio_type: cards
