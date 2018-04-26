@@ -19,7 +19,7 @@ project_two: SHKU_Assosiation
 project_two_description: 교내 동문회 관리 시스템 <br/><br/> Front-end -> Html5, CSS3, JavaScript, Bootstrap3 <br/> Back-end -> Spring Boot, JPA, QueryDSL <br/>DB -> mySql
 project_two_url: https://github.com/iljun/SKHU_Association
 project_two_icon: photo_camera
-project_tow_description_url: https://iljun.gitbooks.io/iljun-portfolio/content/skhu/
+project_two_description_url: https://iljun.gitbooks.io/iljun-portfolio/content/skhu/
 
 project_three: Naver winter Hack Day ShortingUrl
 project_three_description: 단축 URL <br/><br/> Front-end -> JSP, JSTL <br/> Beack-end -> Spring Boot, JPA, Apache, EhCache <br/> DB -> mySql
@@ -34,7 +34,7 @@ project_four_icon: restaurant
 project_four_description_url: https://iljun.gitbooks.io/iljun-portfolio/content/naver/admin/
 
 project_five: Simple Blog
-project_five_description: Simple Blog <br/><br/> Front-end -> Angular4 <br/> Back-end -> Spring Boot, JPA, OAuth2.0, JWT <br/> DB -> mySql <br/> Description 아직 개발중입니다...
+project_five_description: Simple Blog <br/><br/> Front-end -> Angular4 <br/> Back-end -> Spring Boot, JPA, OAuth2.0, JWT <br/> DB -> mySql <br/> 아직 개발중입니다...
 project_five_url: https://github.com/iljun/simple-blog
 project_five_icon: restaurant
 project_five_description_url:
