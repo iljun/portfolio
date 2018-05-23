@@ -177,7 +177,7 @@ colored: colored # Leave blank for black and white icons
 project_button: Github
 
 github: https://github.com/iljun
-medium: https://github.com/iljun/portfolio
+medium: https://developnote.gitbook.io/project/
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
 url: https://iljun.github.io/protfolio/ #the url of your site
